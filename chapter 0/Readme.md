@@ -16,7 +16,7 @@ Hash
 
 Chronic (rubygem)
 =======
-    https://www.ruby-toolbox.com/categories/Natural_Language_Date_Parsing
+    https://rubygems.org/gems/chronic
 
 
 Markdown
